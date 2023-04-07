@@ -11,7 +11,7 @@ const App = () => {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hellow World 123
+          Hellow World 12345
         </p>
         <div>Count = {count}</div>
         <button onClick={() => dispatch(increaseCounter())}>Increase</button>

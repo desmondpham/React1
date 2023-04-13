@@ -14,7 +14,6 @@ class App extends React.Component {
   //JSX
   render() {
     return <div>
-      Hello World
       <MyComponent></MyComponent>
     </div>
   }

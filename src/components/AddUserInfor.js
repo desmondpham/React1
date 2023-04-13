@@ -47,8 +47,7 @@ class AddUserInfor extends React.Component {
                 onChange={(event)=>this.handleOnChangeAge(event)}/>  
                 <button>Submit</button>  
             </form>
-            <br/>
-            <br/></div>
+            </div>
         )
     }
 }

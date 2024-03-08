@@ -51,5 +51,4 @@ class AddUserInfor extends React.Component {
         )
     }
 }
-//test git
 export default AddUserInfor;
